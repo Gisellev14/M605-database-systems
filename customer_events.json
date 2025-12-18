@@ -1,0 +1,375 @@
+[
+  {
+    "customer_id": "2fd7a3ec-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "efb5192a-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-20T08:50:00Z",
+    "metadata": { "referrer": "home", "device": "mobile" }
+  },
+  {
+    "customer_id": "2fd7a3ec-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "efb5192a-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-20T09:00:00Z",
+    "metadata": { "quantity": 1 }
+  },
+  {
+    "customer_id": "2fd7a3ec-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "efb5192a-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-20T09:50:00Z",
+    "metadata": { "quantity": 1, "payment_method": "card" }
+  },
+
+  {
+    "customer_id": "2fd7b0da-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "efb51736-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-21T04:15:00Z",
+    "metadata": { "referrer": "search", "device": "desktop" }
+  },
+  {
+    "customer_id": "2fd7b0da-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "efb51736-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-21T04:25:00Z",
+    "metadata": { "quantity": 2 }
+  },
+  {
+    "customer_id": "2fd7b0da-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "efb51736-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-21T05:15:00Z",
+    "metadata": { "quantity": 2, "payment_method": "paypal" }
+  },
+
+  {
+    "customer_id": "2fd7b6e8-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "efb5152e-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-22T03:30:00Z",
+    "metadata": { "referrer": "category", "device": "mobile" }
+  },
+  {
+    "customer_id": "2fd7b6e8-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "efb5152e-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-22T03:40:00Z",
+    "metadata": { "quantity": 1 }
+  },
+  {
+    "customer_id": "2fd7b6e8-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "efb5152e-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-22T04:30:00Z",
+    "metadata": { "quantity": 1, "payment_method": "card" }
+  },
+
+  {
+    "customer_id": "2fd7ba9e-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "efb50ea8-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-21T03:30:00Z",
+    "metadata": { "referrer": "home", "device": "desktop" }
+  },
+  {
+    "customer_id": "2fd7ba9e-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "efb50ea8-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-21T03:40:00Z",
+    "metadata": { "quantity": 3 }
+  },
+  {
+    "customer_id": "2fd7ba9e-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "efb50ea8-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-21T04:30:00Z",
+    "metadata": { "quantity": 3, "payment_method": "card" }
+  },
+
+  {
+    "customer_id": "2fd7be54-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "efb50caa-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-22T05:00:00Z",
+    "metadata": { "referrer": "search", "device": "mobile" }
+  },
+  {
+    "customer_id": "2fd7be54-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "efb50caa-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-22T05:10:00Z",
+    "metadata": { "quantity": 1 }
+  },
+  {
+    "customer_id": "2fd7be54-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "efb50caa-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-22T06:00:00Z",
+    "metadata": { "quantity": 1, "payment_method": "card" }
+  },
+
+  {
+    "customer_id": "2fd7c20a-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "efb50aa2-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-22T01:10:00Z",
+    "metadata": { "referrer": "category", "device": "desktop" }
+  },
+  {
+    "customer_id": "2fd7c20a-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "efb50aa2-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-22T01:20:00Z",
+    "metadata": { "quantity": 2 }
+  },
+  {
+    "customer_id": "2fd7c20a-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "efb50aa2-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-22T02:10:00Z",
+    "metadata": { "quantity": 2, "payment_method": "card" }
+  },
+
+  {
+    "customer_id": "2fd7c5fc-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "efb5089a-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-23T02:45:00Z",
+    "metadata": { "referrer": "home", "device": "mobile" }
+  },
+  {
+    "customer_id": "2fd7c5fc-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "efb5089a-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-23T02:55:00Z",
+    "metadata": { "quantity": 1 }
+  },
+  {
+    "customer_id": "2fd7c5fc-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "efb5089a-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-23T03:45:00Z",
+    "metadata": { "quantity": 1, "payment_method": "card" }
+  },
+
+  {
+    "customer_id": "2fd7ca02-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "efb50660-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-23T06:20:00Z",
+    "metadata": { "referrer": "search", "device": "desktop" }
+  },
+  {
+    "customer_id": "2fd7ca02-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "efb50660-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-23T06:30:00Z",
+    "metadata": { "quantity": 2 }
+  },
+  {
+    "customer_id": "2fd7ca02-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "efb50660-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-23T07:20:00Z",
+    "metadata": { "quantity": 2, "payment_method": "card" }
+  },
+
+  {
+    "customer_id": "2fd7ce26-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "efb50318-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-22T04:15:00Z",
+    "metadata": { "referrer": "category", "device": "mobile" }
+  },
+  {
+    "customer_id": "2fd7ce26-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "efb50318-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-22T04:25:00Z",
+    "metadata": { "quantity": 1 }
+  },
+  {
+    "customer_id": "2fd7ce26-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "efb50318-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-22T05:15:00Z",
+    "metadata": { "quantity": 1, "payment_method": "card" }
+  },
+
+  {
+    "customer_id": "2fd7dd4e-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "efb4e824-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-23T03:00:00Z",
+    "metadata": { "referrer": "home", "device": "desktop" }
+  },
+  {
+    "customer_id": "2fd7dd4e-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "efb4e824-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-23T03:10:00Z",
+    "metadata": { "quantity": 2 }
+  },
+  {
+    "customer_id": "2fd7dd4e-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "efb4e824-d801-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-23T04:00:00Z",
+    "metadata": { "quantity": 2, "payment_method": "card" }
+  },
+
+  {
+    "customer_id": "2fd7e140-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "3dce53ba-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-24T05:30:00Z",
+    "metadata": { "referrer": "search", "device": "mobile" }
+  },
+  {
+    "customer_id": "2fd7e140-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "3dce53ba-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-24T05:40:00Z",
+    "metadata": { "quantity": 1 }
+  },
+  {
+    "customer_id": "2fd7e140-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "3dce53ba-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-24T06:30:00Z",
+    "metadata": { "quantity": 1, "payment_method": "card" }
+  },
+
+  {
+    "customer_id": "2fd7e500-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "3dce527a-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-23T02:22:00Z",
+    "metadata": { "referrer": "home", "device": "desktop" }
+  },
+  {
+    "customer_id": "2fd7e500-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "3dce527a-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-23T02:32:00Z",
+    "metadata": { "quantity": 1 }
+  },
+  {
+    "customer_id": "2fd7e500-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "3dce527a-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-23T03:22:00Z",
+    "metadata": { "quantity": 1, "payment_method": "paypal" }
+  },
+
+  {
+    "customer_id": "2fd7e8ac-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "3dce4e10-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-24T04:45:00Z",
+    "metadata": { "referrer": "search", "device": "desktop" }
+  },
+  {
+    "customer_id": "2fd7e8ac-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "3dce4e10-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-24T04:55:00Z",
+    "metadata": { "quantity": 1 }
+  },
+  {
+    "customer_id": "2fd7e8ac-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "3dce4e10-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-24T05:45:00Z",
+    "metadata": { "quantity": 1, "payment_method": "card" }
+  },
+
+  {
+    "customer_id": "2fd7ec8a-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "3dce4d3e-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-25T06:00:00Z",
+    "metadata": { "referrer": "home", "device": "mobile" }
+  },
+  {
+    "customer_id": "2fd7ec8a-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "3dce4d3e-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-25T06:10:00Z",
+    "metadata": { "quantity": 2 }
+  },
+  {
+    "customer_id": "2fd7ec8a-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "3dce4d3e-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-25T07:00:00Z",
+    "metadata": { "quantity": 2, "payment_method": "card" }
+  },
+
+  {
+    "customer_id": "2fd7f040-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "3dce4c76-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-19T14:00:00Z",
+    "metadata": { "referrer": "home", "device": "desktop" }
+  },
+  {
+    "customer_id": "2fd7f040-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "3dce4c76-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-19T14:10:00Z",
+    "metadata": { "quantity": 1 }
+  },
+  {
+    "customer_id": "2fd7f040-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "3dce4c76-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-19T15:00:00Z",
+    "metadata": { "quantity": 1, "payment_method": "card" }
+  },
+
+  {
+    "customer_id": "2fd7f400-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "3dce4c08-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-20T12:30:00Z",
+    "metadata": { "referrer": "search", "device": "mobile" }
+  },
+  {
+    "customer_id": "2fd7f400-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "3dce4c08-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-20T12:40:00Z",
+    "metadata": { "quantity": 2 }
+  },
+  {
+    "customer_id": "2fd7f400-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "3dce4c08-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-20T13:30:00Z",
+    "metadata": { "quantity": 2, "payment_method": "card" }
+  },
+
+  {
+    "customer_id": "2fd7f806-d802-11f0-a768-633afb3a3350",
+    "event_type": "view_product",
+    "product_id": "3dce4ae6-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-21T13:45:00Z",
+    "metadata": { "referrer": "home", "device": "desktop" }
+  },
+  {
+    "customer_id": "2fd7f806-d802-11f0-a768-633afb3a3350",
+    "event_type": "add_to_cart",
+    "product_id": "3dce4ae6-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-21T13:55:00Z",
+    "metadata": { "quantity": 1 }
+  },
+  {
+    "customer_id": "2fd7f806-d802-11f0-a768-633afb3a3350",
+    "event_type": "purchase",
+    "product_id": "3dce4ae6-d866-11f0-a768-633afb3a3350",
+    "timestamp": "2025-10-21T14:45:00Z",
+    "metadata": { "quantity": 1, "payment_method": "card" }
+  }
+]

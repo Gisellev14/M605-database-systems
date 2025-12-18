@@ -1,0 +1,241 @@
+[{
+  "_id": "65e96ce6-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "efb5192a-d801-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7a3ec-d802-11f0-a768-633afb3a3350",
+  "rating": 4,
+  "title": "Bamboo Toothbrush",
+  "comment": "Review for Bamboo Toothbrush.",
+  "tags": [
+    "fruit",
+    "fresh"
+  ],
+  "created_at": "2025-10-20T14:50:00Z",
+  "helpful_votes": 1
+},
+{
+  "_id": "65e96d0a-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "efb51736-d801-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7b0da-d802-11f0-a768-633afb3a3350",
+  "rating": 5,
+  "title": "Natural Shampoo 250ml",
+  "comment": "Review for Natural Shampoo 250ml.",
+  "tags": [
+    "fruit",
+    "juicy",
+    "ripe"
+  ],
+  "created_at": "2025-10-21T10:15:00Z",
+  "helpful_votes": 3
+},
+{
+  "_id": "65e96d2e-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "efb5152e-d801-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7b6e8-d802-11f0-a768-633afb3a3350",
+  "rating": 3,
+  "title": "All-Purpose Cleaning Spray 750ml",
+  "comment": "Review for All-Purpose Cleaning Spray 750ml.",
+  "tags": [
+    "fruit",
+    "average"
+  ],
+  "created_at": "2025-10-22T09:30:00Z",
+  "helpful_votes": 0
+},
+{
+  "_id": "55e96ce6-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "efb50ea8-d801-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7ba9e-d802-11f0-a768-633afb3a3350",
+  "rating": 5,
+  "title": "Eco Dishwashing Liquid 500ml",
+  "comment": "Review for Eco Dishwashing Liquid 500ml.",
+  "tags": [
+    "oat milk",
+    "coffee",
+    "vegan"
+  ],
+  "created_at": "2025-10-21T09:30:00Z",
+  "helpful_votes": 4
+},
+{
+  "_id": "55e96d0a-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "efb50caa-d801-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7be54-d802-11f0-a768-633afb3a3350",
+  "rating": 4,
+  "title": "Greek Yogurt 500g",
+  "comment": "Review for Greek Yogurt 500g.",
+  "tags": [
+    "oat milk",
+    "smoothies"
+  ],
+  "created_at": "2025-10-22T11:00:00Z",
+  "helpful_votes": 2
+},
+{
+  "_id": "56e96ce6-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "efb50aa2-d801-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7c20a-d802-11f0-a768-633afb3a3350",
+  "rating": 5,
+  "title": "Oat Milk 1L",
+  "comment": "Review for Oat Milk 1L.",
+  "tags": [
+    "oat milk",
+    "coffee"
+  ],
+  "created_at": "2025-10-22T07:10:00Z",
+  "helpful_votes": 2
+},
+{
+  "_id": "56e96d0a-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "efb5089a-d801-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7c5fc-d802-11f0-a768-633afb3a3350",
+  "rating": 4,
+  "title": "Carrots 1kg",
+  "comment": "Review for Carrots 1kg.",
+  "tags": [
+    "oat milk",
+    "latte"
+  ],
+  "created_at": "2025-10-23T08:45:00Z",
+  "helpful_votes": 1
+},
+{
+  "_id": "57e96ce6-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "efb50660-d801-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7ca02-d802-11f0-a768-633afb3a3350",
+  "rating": 5,
+  "title": "Red Apples 1kg",
+  "comment": "Review for Red Apples 1kg.",
+  "tags": [
+    "granola",
+    "healthy"
+  ],
+  "created_at": "2025-10-23T12:20:00Z",
+  "helpful_votes": 3
+},
+{
+  "_id": "55e96ba6-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "efb50318-d801-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7ce26-d802-11f0-a768-633afb3a3350",
+  "rating": 4,
+  "title": "Wholewheat Pasta 500g",
+  "comment": "Review for Wholewheat Pasta 500g.",
+  "tags": [
+    "vegetables",
+    "fresh"
+  ],
+  "created_at": "2025-10-22T10:15:00Z",
+  "helpful_votes": 0
+},
+{
+  "_id": "55e96ce6-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "efb4e824-d801-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7dd4e-d802-11f0-a768-633afb3a3350",
+  "rating": 5,
+  "title": "Organic Oatmeal 1kg",
+  "comment": "Review for Organic Oatmeal 1kg.",
+  "tags": [
+    "vegetables",
+    "crisp"
+  ],
+  "created_at": "2025-10-23T09:00:00Z",
+  "helpful_votes": 2
+},
+{
+  "_id": "55e96d0a-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "3dce53ba-d866-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7e140-d802-11f0-a768-633afb3a3350",
+  "rating": 3,
+  "title": "Body bar soap",
+  "comment": "Review for Body bar soap.",
+  "tags": [
+    "vegetables",
+    "pricey"
+  ],
+  "created_at": "2025-10-24T11:30:00Z",
+  "helpful_votes": 1
+},
+{
+  "_id": "55e96c77-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "3dce527a-d866-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7e500-d802-11f0-a768-633afb3a3350",
+  "rating": 5,
+  "title": "Moisturizing shampoo",
+  "comment": "Review for Moisturizing shampoo.",
+  "tags": [
+    "eco",
+    "toothbrush"
+  ],
+  "created_at": "2025-10-23T08:22:00Z",
+  "helpful_votes": 3
+},
+{
+  "_id": "55e96d0a-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "3dce4e10-d866-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7e8ac-d802-11f0-a768-633afb3a3350",
+  "rating": 4,
+  "title": "Thermal bag for women",
+  "comment": "Review for Thermal bag for women.",
+  "tags": [
+    "eco",
+    "toothbrush"
+  ],
+  "created_at": "2025-10-24T10:45:00Z",
+  "helpful_votes": 1
+},
+{
+  "_id": "55e96e3a-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "3dce4d3e-d866-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7ec8a-d802-11f0-a768-633afb3a3350",
+  "rating": 3,
+  "title": "Moisturizing shampoo",
+  "comment": "Review for Moisturizing shampoo.",
+  "tags": [
+    "eco",
+    "toothbrush"
+  ],
+  "created_at": "2025-10-25T12:00:00Z",
+  "helpful_votes": 0
+},
+{
+  "_id": "55a96ce6-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "3dce4c76-d866-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7f040-d802-11f0-a768-633afb3a3350",
+  "rating": 3,
+  "title": "Dishes soap",
+  "comment": "Review for Dishes soap.",
+  "tags": [
+    "shampoo",
+    "personal care"
+  ],
+  "created_at": "2025-10-19T20:00:00Z",
+  "helpful_votes": 0
+},
+{
+  "_id": "55a96d0a-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "3dce4c08-d866-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7f400-d802-11f0-a768-633afb3a3350",
+  "rating": 4,
+  "title": "Body bar soap",
+  "comment": "Review for Body bar soap.",
+  "tags": [
+    "shampoo",
+    "moisturizing"
+  ],
+  "created_at": "2025-10-20T18:30:00Z",
+  "helpful_votes": 2
+},
+{
+  "_id": "55a96e2e-c3d8-11f0-b196-e85b103f0c7f",
+  "product_id": "3dce4ae6-d866-11f0-a768-633afb3a3350",
+  "customer_id": "2fd7f806-d802-11f0-a768-633afb3a3350",
+  "rating": 5,
+  "title": "Body bar soap",
+  "comment": "Review for Body bar soap.",
+  "tags": [
+    "shampoo",
+    "best"
+  ],
+  "created_at": "2025-10-21T19:45:00Z",
+  "helpful_votes": 4
+}
+]
